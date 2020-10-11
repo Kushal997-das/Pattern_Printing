@@ -8,6 +8,12 @@ This repo is all about pattern printing .
         ***
         ****
         *****
+        
+  -[02.Right_angle_triangle 2.py](https://github.com/Kushal997-das/Pattern_Printing/blob/master/02.Right_angle_triangle%202.py)<br>
+      
+      *
+      ***
+      *****
       
  
  
