@@ -14,6 +14,15 @@ This repo is all about pattern printing .
         *
         ***
         *****
+        
+   - [03.Pyramid.py](https://github.com/Kushal997-das/Pattern_Printing/blob/master/03.Pyramid.py)<br>
+         
+             *
+            * *
+           * * *
+          * * * *
+         * * * * *
+        
       
  
  
