@@ -22,6 +22,14 @@ This repo is all about pattern printing .
            * * *
           * * * *
          * * * * *
+         
+   - [04.reverse pyramid.py ](https://github.com/Kushal997-das/Pattern_Printing/blob/master/04.reverse%20pyramid.py)
+        
+        * * * * *
+         * * * *
+          * * *
+           * *
+            *
         
       
  
