@@ -14,3 +14,8 @@ for i in range(0,n): #for rows
         print('*',end=' ')
     print()
 
+#other method
+
+n=int(input())
+for i in range(n):
+    print(' '*(n-i-1)+'* '*(i+1)) 
