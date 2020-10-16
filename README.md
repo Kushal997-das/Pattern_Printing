@@ -30,6 +30,19 @@ This repo is all about pattern printing .
           * * *
            * *
             *
+            
+   - [05.diamond.py ](https://github.com/Kushal997-das/Pattern_Printing/blob/master/05.diamond.py)
+   
+             *
+            * *
+           * * *
+          * * * *
+         * * * * *
+         * * * * *
+          * * * *
+          * * *
+           * *
+            *
         
       
  
