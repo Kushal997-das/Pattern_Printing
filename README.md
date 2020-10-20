@@ -43,6 +43,26 @@ This repo is all about pattern printing .
            * * *
             * *
              *
+             
+    - [06.Printing_star_in_Right_angle_Triangle.py](https://github.com/Kushal997-das/Pattern_Printing/blob/master/06.Printing_star_in_Right_angle_Triangle.py)        
+    
+           *****
+           ****
+           ***
+           **
+           *
+           
+           
+     - [07.Printing_A.py ](https://github.com/Kushal997-das/Pattern_Printing/blob/master/07.Printing_A.py)
+     
+            ***
+           *   *
+           *   *
+           *****
+           *   *
+           *   *
+           *   *
+             
         
       
  
