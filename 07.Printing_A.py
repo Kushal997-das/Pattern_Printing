@@ -7,6 +7,7 @@
 *   *
 *   *
 '''
+'''
 n=int(input("enter the row"))
 m=int(input("enter the column"))
 for row in range(n):
@@ -16,3 +17,24 @@ for row in range(n):
         else:
             print(end=' ')
     print()
+'''
+#other method
+''' 
+      *
+     ***
+    *****
+   *******
+  *********
+ *         *
+*           *
+'''
+n = int(input())
+k = int(input())
+for i in range(n):
+    if i == 0:
+        print(' ' * (n - i - 1) + '*')
+    elif i < k:
+
+        print(' ' * (n - i - 1) + '*' + '*' * (i + i - 1) + '*')
+    else:
+        print(' ' * (n - i - 1) + '*' + ' ' * (i + i - 1) + '*')
