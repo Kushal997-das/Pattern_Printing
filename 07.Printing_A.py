@@ -7,7 +7,7 @@
 *   *
 *   *
 '''
-'''
+
 n=int(input("enter the row"))
 m=int(input("enter the column"))
 for row in range(n):
@@ -17,7 +17,7 @@ for row in range(n):
         else:
             print(end=' ')
     print()
-'''
+
 #other method
 ''' 
       *
