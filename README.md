@@ -62,6 +62,17 @@
            *   *
            *   *
            *   *
+      
+      
+     - [08.Printing Stars in B Shape.py](https://github.com/Kushal997-das/Pattern_Printing/blob/master/08.Printing%20Stars%20%20in%20B%20Shape.py)
+            
+            **** 
+            *   *
+            *   *
+            **** 
+            *   *
+            *   *
+            **** 
              
         
       
