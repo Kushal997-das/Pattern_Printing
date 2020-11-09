@@ -1,3 +1,4 @@
+#Printing Stars in 'B' Shape !
 '''
 enter the row7
 enter the cols5
