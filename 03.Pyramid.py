@@ -1,4 +1,4 @@
-#Pattern -05
+#Printing Pyramid Shape !
 '''
      *
     * *
