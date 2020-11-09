@@ -14,6 +14,6 @@ for i in range(n,0,-1): #for rows
         print("*",end=' ')
     print()
 #other method
-n=int(intput()
+n=int(input())
 for i in range(n, 0, -1):
     print(' ' * (n - i) + '* ' * (i))

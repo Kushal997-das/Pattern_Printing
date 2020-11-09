@@ -1,4 +1,4 @@
-#Pattern 02
+#Printing 'Right_angle_Triangle-2' Shape !
 '''
 *
 ***
