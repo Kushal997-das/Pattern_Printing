@@ -73,7 +73,28 @@
             *   *
             *   *
             **** 
+            
+     - [09.Printing Stars in C Shape.py](https://github.com/Kushal997-das/Pattern_Printing/blob/master/09.Printing%20Stars%20in%20C%20Shape.py)   
+      
+      
+          
+              ****
+            *
+            *
+            *
+            *
+            *
+              ****
              
+     - [10.Printing Stars in D Shape.py](https://github.com/Kushal997-das/Pattern_Printing/blob/master/10.Printing%20Stars%20in%20D%20Shape.py)   
+      
+              ****
+              *   *
+              *   *
+              *   *
+              *   *
+              *   *
+              ****
         
       
  
