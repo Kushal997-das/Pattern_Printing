@@ -1,3 +1,4 @@
+#Printing Stars in 'A' Shape !
 '''
  ***
 *   *
@@ -7,7 +8,6 @@
 *   *
 *   *
 '''
-
 n=int(input("enter the row"))
 m=int(input("enter the column"))
 for row in range(n):
