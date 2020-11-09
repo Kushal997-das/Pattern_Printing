@@ -1,3 +1,4 @@
+#Printing Diamond Shape !
 '''
     *
    * *
