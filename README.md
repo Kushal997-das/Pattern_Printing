@@ -95,6 +95,16 @@
               *   *
               *   *
               ****
+              
+     - [11.Printing Stars in E Shape.py](https://github.com/Kushal997-das/Pattern_Printing/blob/master/11.Printing%20Stars%20in%20E%20Shape.py)   
+                
+                *****
+                *
+                *
+                *****
+                *
+                *
+                *****
         
       
  
