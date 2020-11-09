@@ -105,6 +105,14 @@
                 *
                 *
                 *****
+     - [12.Printing stars in F Shape.py](https://github.com/Kushal997-das/Pattern_Printing/blob/master/12.Printing%20stars%20in%20F%20Shape.py)
+     
+                *****
+                *
+                *
+                ****
+                *
+                *
         
       
  
