@@ -1,4 +1,4 @@
-#Printing 'Right_angle_Triangle' Shape !
+#Printing 'Right_angle_Triangle' Shape ! 
 '''
 *
 **
