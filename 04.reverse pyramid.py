@@ -1,4 +1,4 @@
-# Pattern 04
+#Printing 'reverse Pyramid Shape !
 '''
 * * * * *
  * * * *
