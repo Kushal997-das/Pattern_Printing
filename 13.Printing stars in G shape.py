@@ -1,3 +1,4 @@
+#Printing Stars in 'G' Shape !
 '''
   * * * *
 *
