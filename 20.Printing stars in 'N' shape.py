@@ -1,3 +1,4 @@
+#Printing stars in N shape!
 '''
 *     *
 **    *
