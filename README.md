@@ -136,6 +136,15 @@
               *   *
               *   *
       
+     - [15.Printing Stars in 'I' Shape.py](https://github.com/Kushal997-das/Pattern_Printing/blob/master/15.%23Printing%20Stars%20in%20'I'%20Shape%20.py)
+     
+              *****
+                *
+                *
+                *
+                *
+                *
+              *****
  
  
     
