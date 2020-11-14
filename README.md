@@ -126,6 +126,15 @@
             *        *
               * * * *
         
+     - [14.Printing Stars in 'H' Shape.py](https://github.com/Kushal997-das/Pattern_Printing/blob/master/14.Printing%20Stars%20in%20'H'%20Shape.py) 
+     
+              *   *
+              *   *
+              *   *
+              *****
+              *   *
+              *   *
+              *   *
       
  
  
