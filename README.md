@@ -115,6 +115,14 @@
                 *
                 *
                 *     
+     - [13.Printing stars in G shape.py](https://github.com/Kushal997-das/Pattern_Printing/blob/master/13.Printing%20stars%20in%20G%20shape.py)
+              * * * *
+            *
+            *
+            *    * * *
+            *        *
+            *        *
+              * * * *
         
       
  
