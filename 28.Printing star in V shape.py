@@ -1,3 +1,11 @@
+#Printing stars in 'V' shape!
+'''
+*     *
+ *   *
+  * *
+   *
+
+'''
 i=0
 j=6
 for row in range(4):
