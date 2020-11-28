@@ -1,4 +1,4 @@
-#Printing stars in Q shape!
+#Printing stars in R shape!
 '''
 ****
 *   *
