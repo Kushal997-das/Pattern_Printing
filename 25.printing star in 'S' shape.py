@@ -1,4 +1,4 @@
-#Printing stars in S shape!
+#Printing stars in 'S' shape!
 '''
  ***
 *
