@@ -155,7 +155,14 @@
                  *
                * *
                **
-    
+    - [17.Printing Stars in 'K' Shape.py](https://github.com/Kushal997-das/Pattern_Printing/blob/master/17.Printing%20Stars%20in%20'K'%20Shape.py)
+                
+                
+                 *    *
+                 *  *
+                 * *
+                 *  *
+                 *    *
 
 
 
