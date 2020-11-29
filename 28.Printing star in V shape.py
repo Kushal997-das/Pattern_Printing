@@ -19,3 +19,4 @@ for row in range(4):
         else:
             print(end=' ')
     print()
+    
