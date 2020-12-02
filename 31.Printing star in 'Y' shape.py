@@ -1,6 +1,14 @@
+#Printing stars in 'Y' shape!
+'''
+*   *
+ * *
+  *
+  *
+  *
+'''
+
 i = 0
 j = 4
-
 for row in range(5):
     for col in range(5):
 
