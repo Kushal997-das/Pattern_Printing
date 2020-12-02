@@ -1,3 +1,11 @@
+#Printing stars in 'X' shape!
+'''
+*   *
+ * *
+  *
+ * *
+*   *
+'''
 j=4
 i=0
 for row in range(5):
