@@ -1,3 +1,11 @@
+#Printing stars in 'Z' shape!
+'''
+*****
+   *
+  *
+ *
+*****
+'''
 i=1
 j=3
 for row in range(5):
