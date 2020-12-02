@@ -158,11 +158,17 @@
     - [17.Printing Stars in 'K' Shape.py](https://github.com/Kushal997-das/Pattern_Printing/blob/master/17.Printing%20Stars%20in%20'K'%20Shape.py)
                 
                 
-                 *    *
-                 *  *
-                 * *
-                 *  *
-                 *    *
+                *    *
+                *  *
+                * *
+                *  *
+                *    *
 
-
+    - [18.Printing stars in 'L' shape.py](https://github.com/Kushal997-das/Pattern_Printing/blob/master/18.Printing%20stars%20in%20'L'%20shape.py)
+    
+              *
+              *
+              *
+              *
+              * * * *
 
