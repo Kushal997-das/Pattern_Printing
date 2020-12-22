@@ -190,4 +190,10 @@
              *   * *
              *    **
              *     *
-
+    - [21.Printing stars in 'O' shape.py ](https://github.com/Kushal997-das/Pattern_Printing/blob/master/21.Printing%20stars%20in%20'O'%20shape.py)
+    
+             ***
+            *   *
+            *   *
+            *   *
+             ***
