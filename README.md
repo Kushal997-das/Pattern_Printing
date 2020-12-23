@@ -173,7 +173,6 @@
               * * * *
     - [19.Printing stars in 'M' shape.py](https://github.com/Kushal997-das/Pattern_Printing/blob/master/19.Printing%20stars%20in%20'M'%20shape.py)
       
-      
             *     *
             **   **
             * * * *
@@ -181,3 +180,20 @@
             *     *
             *     *
             *     *
+            
+     - [20.Printing stars in 'N' shape.py ](https://github.com/Kushal997-das/Pattern_Printing/blob/master/20.Printing%20stars%20in%20'N'%20shape.py)
+      
+             *     *
+             **    *
+             * *   *
+             *  *  *
+             *   * *
+             *    **
+             *     *
+    - [21.Printing stars in 'O' shape.py ](https://github.com/Kushal997-das/Pattern_Printing/blob/master/21.Printing%20stars%20in%20'O'%20shape.py)
+    
+             ***
+            *   *
+            *   *
+            *   *
+             ***
