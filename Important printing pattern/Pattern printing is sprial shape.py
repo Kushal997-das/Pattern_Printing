@@ -1,24 +1,33 @@
-n=5
-list1=[[0 for x in range(n)] for y in range(n)]
+'''
+enter the number:5
+1	2	3	4	5
+16	17	18	19	6
+15	24	25	20	7
+14	23	22	21	8
+13	12	11	10	9
+'''
+n=int(input('enter the number:'))
+n_list=[[0 for i in range(n)]for j in range(n)]
 low=0
 high=n-1
 k=1
-for i in range(n+1//2):
+for i in range((n//2)+1):
     for j in range(low,high+1):
-        list1[i][j]=k
+        n_list[i][j]=k
         k+=1
     for j in range(low+1,high+1):
-        list1[j][high]= k
+        n_list[j][high]=k
         k+=1
     for j in range(high-1,low-1,-1):
-        list1[high][j]=k
+        n_list[high][j]=k
         k+=1
     for j in range(high-1,low,-1):
-        list1[j][low]
-        k +=1
+        n_list[j][low]=k
+        k+=1
     low+=1
     high-=1
 for i in range(n):
     for j in range(n):
-        print(list1[i][j],end='\t')
+
+        print(n_list[i][j],end='\t')
     print()
