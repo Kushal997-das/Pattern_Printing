@@ -197,3 +197,32 @@
             *   *
             *   *
              ***
+
+   - [22.Printing stars in 'P' shape.py](https://github.com/Kushal997-das/Pattern_Printing/blob/master/22.Printing%20stars%20in%20'P'%20shape.py)
+   
+          ****
+          *    *
+          *    *
+          ****
+          *
+          *
+          
+   - [23.Printing stars in 'Q' shape.py](https://github.com/Kushal997-das/Pattern_Printing/blob/master/23.Printing%20stars%20in%20'Q'%20shape.py)
+   
+          ***
+         *   *
+         *   *
+         *   *
+          ***
+             *
+   - [24.Printing stars in'R' shape.py](https://github.com/Kushal997-das/Pattern_Printing/blob/master/24.Printing%20stars%20in'R'%20shape.py)
+   
+         ****
+         *   *
+         *   *
+         ****
+         *   *
+         *   *
+         *   *
+             
+             
