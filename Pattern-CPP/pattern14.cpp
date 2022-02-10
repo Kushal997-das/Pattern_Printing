@@ -1,8 +1,7 @@
 /*
-1
-2 1
-3 2 1
-4 3 2 1
+A B C
+A B C
+A B C
 */
 
 #include<iostream>
@@ -15,14 +14,16 @@ int main()
     while(row<=n)
     {
         int col=1;
-        while(col<=row)
+        char ch='A';
+        while(col<=n)
         {
-            cout<<char(ch+row-col+1)<<" ";
-            
-            col++;
+        
+        cout<<char(ch+col-1)<<" ";
+        col++;
+
         }
         row++;
         cout<<endl;
+
     }
 }
-

@@ -1,28 +1,25 @@
 /*
-1
-2 1
-3 2 1
-4 3 2 1
+A B C 
+B C D
+C D E
 */
 
 #include<iostream>
 using namespace std;
 int main()
 {
-    int n,row=1;
+    int row=1,n;
     cout<<"enter number";
     cin>>n;
-    while(row<=n)
-    {
+    while(row<=n){
         int col=1;
-        while(col<=row)
+        char ch='A';
+        while(col<=n)
         {
-            cout<<char(ch+row-col+1)<<" ";
-            
+            cout<<char(ch+row+col-2)<<" ";
             col++;
         }
         row++;
         cout<<endl;
     }
 }
-
