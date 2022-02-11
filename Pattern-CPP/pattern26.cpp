@@ -1,8 +1,9 @@
 /*
-   1
-  22
- 333
-4444
+
+****
+ ***
+  **
+   *      
 */
 
 #include<iostream>
@@ -15,7 +16,7 @@ int main()
     while(row<=n)
     {
     // For space
-    int space=n-row;
+    int space=row-1;
     while(space)
     
     {
@@ -24,12 +25,11 @@ int main()
         
     }
     // For star
-        // int star=n-row+1;
-        int col=1;
-        while(col<=row)
+         int star=n-row+1;
+        while(star)
         {
-            cout<<row;
-            col++;
+            cout<<"*";
+            star--;
         }
         
     

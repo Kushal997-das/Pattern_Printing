@@ -1,8 +1,8 @@
 /*
+   **** 
+   ***  
+   **   
    *
-  **
- ***
-****
 */
 #include<iostream>
 using namespace std;
@@ -12,21 +12,25 @@ int main()
     cout<<"enter number";
     cin>>n;
     while(row<=n)
- {
-        int space=n-row;
-        while(space)
-        {
-            cout<<" ";
-            space--;
-        }
-    
-        
-        int col=1;
-        while(col<=row)
+ {      
+        int star=n-row+1;
+        while(star)
         {
             cout<<"*";
+            star--;
+        }
+    // No need to add space here --
+        /*
+        int col=1;
+        // For space
+        while(col<=row)
+        {
+            cout<<" ";
             col++;
         }
+        */
+       // For space
+    
         
         cout<<endl;
         row++;

@@ -1,19 +1,20 @@
 /*
    1
-  22
- 333
-4444
+  23
+ 456
+78910
 */
 
 #include<iostream>
 using namespace std;
 int main()
 {
-    int n,row=1;
+    int n,row=1,count=1;
     cout<<"enter number";
     cin>>n;
     while(row<=n)
     {
+       
     // For space
     int space=n-row;
     while(space)
@@ -23,21 +24,15 @@ int main()
         space--;
         
     }
-    // For star
-        // int star=n-row+1;
+     // For star
         int col=1;
         while(col<=row)
         {
-            cout<<row;
+            cout<<count;
             col++;
-        }
+            count++;
         
-    
-   
-         
-       
-    
-
+        }
     row++;
     cout<<endl;
     

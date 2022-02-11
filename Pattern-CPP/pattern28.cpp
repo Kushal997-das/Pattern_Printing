@@ -14,6 +14,7 @@ int main()
     cin>>n;
     while(row<=n)
     {
+       
     // For space
     int space=n-row;
     while(space)
@@ -23,21 +24,14 @@ int main()
         space--;
         
     }
-    // For star
-        // int star=n-row+1;
+     // For star
         int col=1;
         while(col<=row)
         {
             cout<<row;
             col++;
-        }
         
-    
-   
-         
-       
-    
-
+        }
     row++;
     cout<<endl;
     
