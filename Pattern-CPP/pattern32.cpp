@@ -1,25 +1,40 @@
-
+/*
+4321
+321
+21
+1
+*/
 
 #include<iostream>
 using namespace std;
 int main()
 {
     int n,row=1;
+    
     cout<<"enter number"<<endl;
+
     cin>>n;
 
+    while(row<=n){
 
-while(row<=n){
-// For star
-        int col=n;
-         int star=n-row+1;
-        while(col>=1)
-        {   if(col>=star)
-            cout<<"8";
-           star--;
-            col++;
-            
+int col=n;
+         while (col >=1){
+            if (col >= n - row + 2){
+               // cout << " ";
+              // cout<<col;
+            }
+            else{
+                cout << col;
+            }
+            col--;
+        
+
         }
+
+        
+        
+        
+        
         
         row++;
         cout<<endl;
