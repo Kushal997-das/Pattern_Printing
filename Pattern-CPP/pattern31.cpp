@@ -1,3 +1,9 @@
+/*
+12344321
+123**321
+12****21
+1******1
+*/
 #include<iostream>
 using namespace std;
 int main()
