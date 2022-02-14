@@ -24,10 +24,11 @@ int col=n;
               // cout<<col;
             }
             else{
-                cout << col;
+               cout << col;
             }
-            col--;
         
+            col--;
+            
 
         }
 
