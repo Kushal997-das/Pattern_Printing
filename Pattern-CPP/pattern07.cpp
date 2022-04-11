@@ -1,3 +1,9 @@
+/*
+1
+22
+333
+*/
+
 #include<iostream>
 using namespace std;
 int main()
@@ -8,9 +14,9 @@ int main()
     while(row<=n)
     {
         int col=1;
-        while(col<=n)
-        {
-            if(col<=row)
+        //while(col<=n)
+        //{
+            while(col<=row){
             cout<<row<<" ";
             col++;
         }
