@@ -14,8 +14,7 @@ int main()
     while(row<=n)
     {
         int col=1;
-        //while(col<=n)
-        //{
+        
             while(col<=row){
             cout<<row<<" ";
             col++;
@@ -25,8 +24,3 @@ int main()
     }
 }
 
-/*
-1
-22
-333
-*/

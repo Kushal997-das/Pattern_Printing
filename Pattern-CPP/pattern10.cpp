@@ -18,7 +18,7 @@ int main()
     {
         int col=1;
         while(col<=n){
-        if(col>=row)//col<=row
+        if(row<=col)//col<=row
         {
             
                 cout<<count<<" ";
