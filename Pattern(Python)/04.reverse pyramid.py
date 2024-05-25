@@ -7,14 +7,17 @@
     *
 '''
 n=int(input())
-for i in range(n,0,-1): #for rows
-   
-    for j in range(0,i): # for space
-        print(end=' ')
-    for j in range(0,n-i): # creating star
-        print("*",end=' ')
+for i in range(n):
+        # Print leading spaces
+        for j in range(i):
+            print(" ", end="")
+        # Print stars
+        for k in range(n - i):
+            print("*", end=" ")
+        # Move to the next line
+        print()
      
-    print()
+   
 #other method
 n=int(input())
 for i in range(n, 0, -1):
